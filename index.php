@@ -397,16 +397,16 @@ if(isset($_POST['submit'])) //User login form
               <div class="col-sm-4 col-md-3 col-lg-3 text-center">
                   <h2 style="color:#fff;"> Follow Us At: </h2>
                   <div>
-                      <a href="https://twitter.com/LavaniaNaidoo7">
+                      <a href="https://twitter.com/">
                       <img title="Twitter" alt="Twitter" src="img/social/twitter.png" width="35" height="35" />
                       </a>
-                      <a href="https://www.linkedin.com/in/lavania-naidoo-039190239/">
+                      <a href="https://www.linkedin.com/">
                       <img title="LinkedIn" alt="LinkedIn" src="img/social/linkedin.png" width="35" height="35" />
                       </a>
-                      <a href="https://www.facebook.com/lavania.naidoo.56">
+                      <a href="https://www.facebook.com/">
                       <img title="Facebook" alt="Facebook" src="img/social/facebook.png" width="35" height="35" />
                       </a>
-                      <a href="https://za.pinterest.com/lavania987/">
+                      <a href="https://za.pinterest.com">
                       <img title="Pinterest" alt="Pinterest" src="img/social/pinterest.jpg" width="35" height="35" />
                       </a>
                   </div>
