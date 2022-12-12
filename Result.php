@@ -168,7 +168,7 @@ $result=mysqli_query($con,$query) or die(mysqli_error($con));;
         {   
             while($row = mysqli_fetch_assoc($result)) 
             {
-            $path="images/carousel/img2" .$row['PID'].".jpg";
+            $path="images/funkos" .$row['PID'].".jpg";
             $description="description.php?ID=".$row["PID"];
             if($i % 3 == 0)  $offset= 0;
             else  $offset= 1; 
