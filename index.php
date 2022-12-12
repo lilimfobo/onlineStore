@@ -377,25 +377,25 @@ if(isset($_POST['submit'])) //User login form
               </div>
               <div class="col-sm-7 col-md-5 col-lg-5">
                   <div class="row text-center" style="color:#fff;">
-                      <h2> Let's Get In Touch!</h2>
+                      <h2> Contact Us!</h2>
                       <hr class="primary">
-                      <p> Still Confused? Give us a call or send us an email and we will get back to you as soon as possible!</p>
+                      <p> Call or email us to find out more!</p>
                   </div>
                   <div class="row">
                       <div class="col-md-6 text-center">
                           <span class="glyphicon glyphicon-earphone" ></span>
-                          <p style="color:#fff;"> 011 575 6213 </p>
+                          <p style="color:#fff;"> 011 661 1116 </p>
                       </div>
                       <div class="col-md-6 text-center">
                           <span class="glyphicon glyphicon-envelope" ></span>
-                          <p style="color:#fff;"> lavania987@gmail.com </p>
+                          <p style="color:#fff;"> funkoworld27@gmail.com </p>
                       </div>
                   </div>
               </div>
               <div class="hidden-sm-down col-md-2 col-lg-2">
               </div>
               <div class="col-sm-4 col-md-3 col-lg-3 text-center">
-                  <h2 style="color:#fff;"> Follow Us At: </h2>
+                  <h2 style="color:#fff;"> Follow Us: </h2>
                   <div>
                       <a href="https://twitter.com/">
                       <img title="Twitter" alt="Twitter" src="img/social/twitter.png" width="35" height="35" />
@@ -418,7 +418,7 @@ if(isset($_POST['submit'])) //User login form
 	<div class="row text-center">
     <div class="col-sm-4 col-md-3 col-lg-3">
         <h2 style="color:#fff;margin-left:-6%;margin-right:-6%;"> Store Location: </h2>
-		    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d114529.8818206165!2d27.976509840527353!3d-26.22727869180644!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1e950c68f0406a51%3A0x238ac9d9b1d34041!2sJohannesburg!5e0!3m2!1sen!2sza!4v1669645408391!5m2!1sen!2sza" width="1550" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3582.986799462278!2d27.988369715027744!3d-26.099349583484646!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1e9574c1a4b5a815%3A0x86f6aec51c98c295!2sFerndale%20On%20Republic!5e0!3m2!1sen!2sza!4v1670822846463!5m2!1sen!2sza" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
   
     </footer>
 
