@@ -279,57 +279,57 @@ if(isset($_POST['submit'])) //User login form
       <div class="row">
           <div class="col-sm-6 col-md-3 col-lg-3">
            <a href="description.php?ID=NEW-1&category=new">
-              <div class="book-block">
+              <div class="funko-block">
                   <div class="tag"> New </div>
-                  <div class="tag-side"><img src="img/tag.png"></div>
-                  <img class="book block-center img-responsive" src="img/new/1.jpg">
+                  <div class="tag-side"><img src="images/tag.png"></div>
+                  <img class="funko block-center img-responsive" src="images/disneyPrincesses/moana.jpg">
                   <hr>
-                  Like A Love Song <br>
-                  R 113  &nbsp
-                  <span style="text-decoration:line-through;color:#828282;"> R 175 </span>
-                  <span class="label label-warning">35%</span>
+                  Moana <br>
+                  R 210  &nbsp
+                  <span style="text-decoration:line-through;color:#828282;"> R 300  </span>
+                  <span class="label label-warning">30%</span>
               </div>
             </a>
           </div>
           <div class="col-sm-6 col-md-3 col-lg-3">
            <a href="description.php?ID=NEW-2&category=new">
-              <div class="book-block">
+              <div class="funko-block">
                   <div class="tag"> New </div>
-                  <div class="tag-side"><img src="img/tag.png"></div>
-                  <img class="block-center img-responsive" src="img/new/2.jpg">
+                  <div class="tag-side"><img src="images/tag.png"></div>
+                  <img class="block-center img-responsive" src="images/Avengers/thor.webp">
                   <hr>
-                  General Knowledge 2017  <br>
-                  R 68 &nbsp
-                  <span style="text-decoration:line-through;color:#828282;"> R 120 </span>
-                  <span class="label label-warning">43%</span>
+                  Thor  <br>
+                  R 375 &nbsp
+                  <span style="text-decoration:line-through;color:#828282;"> R 500 </span>
+                  <span class="label label-warning">25%</span>
               </div>
             </a>
           </div>
           <div class="col-sm-6 col-md-3 col-lg-3">
            <a href="description.php?ID=NEW-3&category=new">
-              <div class="book-block">
+              <div class="funko-block">
                   <div class="tag"> New </div>
-                  <div class="tag-side"><img src="img/tag.png"></div>
-                  <img class="block-center img-responsive" src="img/new/3.png">
+                  <div class="tag-side"><img src="images/tag.png"></div>
+                  <img class="block-center img-responsive" src="images/x-men/quicksilver.jpg">
                   <hr>
-                  Indian Family Bussiness Mantras <br>
-                  R 400 &nbsp
-                  <span style="text-decoration:line-through;color:#828282;"> R 595 </span>
-                  <span class="label label-warning">33%</span>
+                  Quicksilver <br>
+                  R 405 &nbsp
+                  <span style="text-decoration:line-through;color:#828282;"> R 450 </span>
+                  <span class="label label-warning">10%</span>
               </div>
             </a>
           </div>
           <div class="col-sm-6 col-md-3 col-lg-3">
            <a href="description.php?ID=NEW-4&category=new">
-              <div class="book-block">
+              <div class="funko-block">
                   <div class="tag"> New </div>
-                  <div class="tag-side"><img src="img/tag.png"></div>
-                  <img class="block-center img-responsive" src="img/new/4.jpg">
+                  <div class="tag-side"><img src="images/tag.png"></div>
+                  <img class="block-center img-responsive" src="images/doomPatrol/negativeMan.jpg">
                   <hr>
-                  Kiran s SSC Mathematics Chapterwise Solutions <br>
-                  R 289 &nbsp
-                  <span style="text-decoration:line-through;color:#828282;"> R 435 </span>
-                  <span class="label label-warning">33%</span>
+                  Negative Man <br>
+                  R 320 &nbsp
+                  <span style="text-decoration:line-through;color:#828282;"> R 400 </span>
+                  <span class="label label-warning">20%</span>
               </div>
             </a>
           </div>
