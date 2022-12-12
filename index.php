@@ -266,9 +266,9 @@ if(isset($_POST['submit'])) //User login form
               </div>
               <!-- Right hand side offers -->
               <div class="col-md-3 col-lg-3" id="offer">
-                  <a href="Product.php?value=Regional%20Books">              <img class="img-responsive center-block" src="img/offers/1.png"></a>
-                  <a href="Product.php?value=Health%20and%20Cooking">        <img class="img-responsive center-block" src="img/offers/2.png"></a>
-                  <a href="Product.php?value=Academic%20and%20Professional"> <img class="img-responsive center-block" src="img/offers/3.png"></a>
+                  <a href="Product.php?value=Justice%20League">        <img class="img-responsive center-block" src="images/justiceLeague/staticShock.webp"></a>
+                  <a href="Product.php?value=Disney%20Villains">        <img class="img-responsive center-block" src="images/disneyVillains/queenOfHearts.png"></a>
+                  <a href="Product.php?value=Doom%20Patrol">           <img class="img-responsive center-block" src="images/doomPatrol/theProfessor.jpg"></a>
               </div>
           </div>
       </div>
@@ -365,16 +365,16 @@ if(isset($_POST['submit'])) //User login form
                   <h2 style="color:#fff;"> Follow Us: </h2>
                   <div>
                       <a href="https://twitter.com/">
-                      <img title="Twitter" alt="Twitter" src="img/social/twitter.png" width="35" height="35" />
+                      <img title="Twitter" alt="Twitter" src="images/social/twitter.png" width="35" height="35" />
                       </a>
                       <a href="https://www.linkedin.com/">
-                      <img title="LinkedIn" alt="LinkedIn" src="img/social/linkedin.png" width="35" height="35" />
+                      <img title="LinkedIn" alt="LinkedIn" src="images/social/linkedin.png" width="35" height="35" />
                       </a>
                       <a href="https://www.facebook.com/">
-                      <img title="Facebook" alt="Facebook" src="img/social/facebook.png" width="35" height="35" />
+                      <img title="Facebook" alt="Facebook" src="images/social/facebook.png" width="35" height="35" />
                       </a>
                       <a href="https://za.pinterest.com">
-                      <img title="Pinterest" alt="Pinterest" src="img/social/pinterest.jpg" width="35" height="35" />
+                      <img title="Pinterest" alt="Pinterest" src="images/social/pinterest.jpg" width="35" height="35" />
                       </a>
                   </div>
               </div>
