@@ -50,7 +50,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="index.php" style="color:#fff;"> <<< Go back to Forever Books </a>
+          <a class="navbar-brand" href="index.php" style="color:#fff;"> <<< Go back to Funko World </a>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
@@ -87,7 +87,7 @@
 </div>
 
 <!-- Our Staff -->
-<h1 class="text-center"> Cheer to our staff! </h1>
+<h1 class="text-center"> Cheers to our staff! </h1>
 <div class="card mb-5">
   <img src="images/About/about3.jpg" class="card-img-top" alt="staff">
   <div class="card-body mt-8">
