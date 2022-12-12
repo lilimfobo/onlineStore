@@ -12,7 +12,7 @@
         #new {font-weight:800;}
         .tag {display:inline;float:left;padding:2px 5px;width:auto;background:#90e137;color:#fff;height:23px;}
         .tag-side{display:inline;float:left;}
-        .book-block {margin-top:20px;padding:5px;background:#fff; border :1px solid #DEEAEE;border-radius:10px;}
+        .funko-block {margin-top:20px;padding:5px;background:#fff; border :1px solid #DEEAEE;border-radius:10px;}
         #author {margin-top:20px; background:#fff; border :1px solid #DEEAEE;border-radius:10px;}
         #author .row {margin-top: 20px; margin-bottom:20px;}
         #author h3{color:rgb(228, 55, 25);}
