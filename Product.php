@@ -139,7 +139,7 @@ if(!isset($_SESSION['user']))
         {   
             while($row = mysqli_fetch_assoc($result)) //Shows detailed description of Funko Pops prices, image etc.
             {
-            $path="images/funkos/" .$row['PID'].".jpg";
+            $path="images/funkos/" .$row['PID'].".jpg" ".png" ".webp";
             $description="description.php?ID=".$row["PID"];
             if($i%4==0)
             echo '<div class="row">';
