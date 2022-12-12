@@ -243,23 +243,23 @@ if(isset($_POST['submit'])) //User login form
                         <!-- Wrapper for slides -->
                       <div class="carousel-inner" role="listbox">
                           <div class="item active">
-                            <img class="img-responsive" src="img/carousel/1a.jpg">
+                            <img class="img-responsive" src="images/carousel/img1.webp" >
                           </div>
 
                           <div class="item">
-                            <img class="img-responsive "src="img/carousel/2a.jpg">
+                            <img class="img-responsive "src="images/carousel/img2.jpg">
                           </div>
 
                           <div class="item">
-                            <img class="img-responsive" src="img/carousel/1.png">
+                            <img class="img-responsive" src="images/carousel/img3.webp">
                           </div>
 
                           <div class="item">
-                            <img class="img-responsive"src="img/carousel/4.png">
+                            <img class="img-responsive"src="images/carousel/img4.jpg">
                           </div>
 
                           <div class="item">
-                            <img class="img-responsive" src="img/carousel/5a.jpg">
+                            <img class="img-responsive" src="images/carousel/img5.avif">
                           </div>
                       </div>
                   </div>
